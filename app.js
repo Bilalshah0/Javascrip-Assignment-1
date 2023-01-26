@@ -29,7 +29,7 @@
 // console.log(alert);
 
 
-//      *********Question no 06*********
+
 
 
 
